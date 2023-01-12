@@ -60,11 +60,6 @@ ul {
   list-style: none;
 }
 
-.headline {
-  background-image: url("images/header-shapes-mobile.png");
-  border-bottom-left-radius: 60px;
-}
-
 .title {
   font-weight: 700;
   font-size: 40px;
@@ -97,12 +92,4 @@ ul {
   display: flex;
   gap: 20px;
   text-decoration: none;
-}
-
-.contact-me {
-  background-color: #6070ff;
-  background-image: url("images/contac-shape-bg.svg");
-  background-repeat: no-repeat;
-  background-position: 160px 40px;
-  border-top-left-radius: 60px;
 }
